@@ -1,0 +1,1 @@
+,titanic_1,=,"df.sample(frac=0.50,",random_state=1)
