@@ -26,8 +26,9 @@ During the 40-day course, I acquired knowledge and hands-on experience in the fo
 * Gained proficiency in using GitHub for version control.
 * Managed and collaborated on code repositories.
 
-# Projects
-Project 1: Machine Learning on Water Potability -> https://www.kaggle.com/code/poojadinani/machine-learning-on-water-potability
+# My Outcome
+Machine Learning on Water Potability -> https://www.kaggle.com/code/poojadinani/machine-learning-on-water-potability
+Research Paper -> Under Review
 
 # Acknowledgments
 Special thanks to Dr. Aammar Tufail for an insightful and well-structured course.
